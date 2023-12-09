@@ -1,9 +1,9 @@
 # Genshin Impact 4.2.50 - Private (Public) Server tutorial
 
 ## 1. Links
-- [Genshin Impact Client](https://github.com/Kurooleak/gi-4.2.50-tutorial/raw/main/GenshinImpact_4.2.52_beta.torrent)
+- [Genshin Impact Client](https://kurooleak.transfernow.net/dl/20231209Jqw62bRe/A2YrjnAX)
 
-- [Fiddler Classic](https://github.com/Kurooleak/gi-4.2.50-tutorial/raw/main/FiddlerSetup.exe)
+- [Fiddler Classic](https://telerik-fiddler.s3.amazonaws.com/fiddler/FiddlerSetup.exe)
 
 - [Script de Conexão](https://pastebin.com/kfUWmL5t)
 
