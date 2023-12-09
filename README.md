@@ -7,6 +7,8 @@
 
 - [Script de Conexão](https://pastebin.com/kfUWmL5t)
 
+- [Tutorial de Comandos](https://pastebin.com/x1xsTGnF)
+
 ## 2. Download e extração do Client
 
 - Selecione o `GenshinImpact_4.2.52_beta.zip` e clique em Extrair Ficheiros.
